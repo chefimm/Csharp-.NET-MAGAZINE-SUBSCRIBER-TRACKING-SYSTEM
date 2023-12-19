@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Üye Ekle";
+}
+@using Dergi_Abone_Takip_ASP.NET.Data.Model;
+@model List<Uye> 
+<h2>ÜYE EKLE</h2>
+
+/*<form class="form-horizontal">
+    <div class="form-group">
+        <label class="col-md-12">Ad Soyad</label>
+        <div class="col-md-12">
+            <select id="uyeId">
+                @foreach (var uye in Model)
+                {
+                    <option value="@uye.Id">@uye.Ad @uye.Soyad</option>
+                }
+
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-12">Mail</label>
+        <div class="col-md-12">
+            <input id="mail" type="text" class="form-control" placeholder="Üye maili giriniz.">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-12">Şifre</label>
+        <div class="col-md-12">
+            <input id="parola" type="password" class="form-control" placeholder="Şifreyi  giriniz.">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-12">Şifre Tekrar</label>
+        <div class="col-md-12">
+            <input id="parolaTekrar" type="password" class="form-control" placeholder="Tekrar şifreyi giriniz.">
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-12">
+            <input type="button" id="uyelikEkle" class="btn btn-block btn-info" value="Kaydet" />
+        </div>
+    </div>
+</form>

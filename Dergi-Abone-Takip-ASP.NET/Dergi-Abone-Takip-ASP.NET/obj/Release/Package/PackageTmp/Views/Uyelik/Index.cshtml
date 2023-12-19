@@ -1,0 +1,41 @@
+﻿@{
+   ViewBag.Title = "Abone Üyelik";
+}
+@using Dergi_Abone_Takip_ASP.NET.Data.Model
+@model Uye
+<h2>ABONE OL</h2>
+ <a href="@Url.Action("Ekle","Uyelik")" class="btn btn-success" style="margin-bottom:15px;">Ekle</a>
+    <table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Ad Soyad</th>
+                <th>Mail</th>
+                <th>Yetki</th>
+                <th>Güncelle</th>
+                <th>Sil</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var uye in Model)
+            {
+                <tr>
+                    <td>@uye.Ad @uye.Soyad</td>
+                    <td>@uye.Mail</td>
+                    <td>@uye.Yetki</td>
+                    <td><button class="guncelle btn btn-custom" value="@uye.Id">Güncelle</button></td>
+                    <td><button class="sil btn btn-danger" value="@uye.Id">Sil</button></td>
+                </tr>
+            }
+
+        </tbody>
+        <tfoot>
+            <tr>
+                <th>Ad Soyad</th>
+                <th>Mail</th>
+                <th>Yetki</th>
+                <th>Güncelle</th>
+                <th>Sil</th>
+            </tr>
+        </tfoot>
+    </table>
+
