@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "YAYIN EVLERİ";
+}
+@using Dergi_Abone_Takip_ASP.NET.Data.Model
+@model List<Yazar>
+<h2>YAYIN EVLERİ</h2>
+
+<button class="btn btn-primary yazarEkle">Ekle</button>
+
+<table id="example" class="display" style="width:100%">
+    <thead>
+        <tr>
+            <th>Ad</th>
+            <th>Dergi Adeti</th>
+            <th>Güncelle</th>
+            <th>Sil</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var yzr in Model)
+        {
+            <tr>
+                <td>@yzr.Ad</td>
+                <td>@yzr.Dergiler.Count()</td>
+                <td><button class="yazarGuncelle btn btn-custom" data-id="@yzr.Id">Güncelle</button></td>
+                <td><button class="yazarSil btn btn-danger" value="@yzr.Id">Sil</button></td>
+            </tr>
+        }
+
+    </tbody>
+    <tfoot>
+        <tr>
+            <th>Ad</th>
+            <th>Dergi Adeti</th>
+            <th>Güncelle</th>
+            <th>Sil</th>
+        </tr>
+    </tfoot>
+</table>
+
