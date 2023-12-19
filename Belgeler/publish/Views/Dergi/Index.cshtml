@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Dergiler";
+    Layout = Layout;
+}
+
+<h2>DERGİLER</h2>
+
+<table id="example" class="display" style="width:100%">
+    <thead>
+        <tr>
+            <th>Sıra No</th>
+            <th>Kategori</th>
+            <th>Dergi Adı</th>
+            <th>Adeti</th>
+            <th>Yayın</th>
+            <th>Güncelle</th>
+            <th>Sil</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dergi in Model)
+        {
+            <tr>
+                <td>@dergi.SiraNo</td>
+                <td>
+                    @foreach (var kategori in dergi.Kategoriler)
+                    {
+                        <text>@kategori.Ad,</text>
+                    }
+                </td>
+                <td>@dergi.Ad</td>
+                <td>@dergi.Adet</td>
+                <td>@dergi.Yazar.Ad</td>
+                <td><a href="@Url.Action("Guncelle", "Dergi", new {dergiId = dergi.Id})" class="btn btn-custom">Güncelle</a></td>
+                <td><button class="dergiSil btn btn-danger" value="@dergi.Id">Sil</button></td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <th>Sıra No</th>
+            <th>Kategori</th>
+            <th>Dergi Adı</th>
+            <th>Adeti</th>
+            <th>Yayın</th>
+            <th>Güncelle</th>
+            <th>Sil</th>
+        </tr>
+    </tfoot>
+</table>
+

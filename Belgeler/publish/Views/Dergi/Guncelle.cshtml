@@ -1,0 +1,89 @@
+﻿@{    
+    ViewBag.Title = "Dergi Güncelle";
+}
+@using Dergi_Abone_Takip_ASP.NET.Data.Model;
+@using Dergi_Abone_Takip_ASP.NET.Data.UnitOfWork;
+@model Dergi
+
+<h2>DERGİ GÜNCELLE</h2>
+
+<form class="form-horizontal">
+    <div class="form-group">
+        <label class="col-sm-12">Kategori Ekle</label>
+        <div class="col-sm-10">
+            <select id="kategoriler" class="form-control">
+                @foreach (var kategori in ViewBag.Kategoriler)
+                {
+                    bool kategoriEklendi = false;
+                    foreach (var eklenmisKategori in Model.Kategoriler)
+                    {
+                        if (kategori.Id == eklenmisKategori.Id)
+                        {
+                            kategoriEklendi = true;
+                            break;
+                        }
+                    }
+
+                    if (!kategoriEklendi)
+                    {
+                        <option data-id="@kategori.Id">@kategori.Ad</option>
+                    }
+                }
+
+            </select>
+        </div>
+        <div class="col-sm-2">
+            <input type="button" id="kategoriEkle" class="btn btn-block btn-info" value="Ekle">
+        </div>
+    </div>
+    <div id="eklenenKategoriler" class="form-group">
+        <label class="col-md-12">Kategoriler</label>
+        @foreach (var kategori in Model.Kategoriler)
+        {
+            <div id="@kategori.Id" class="col-md-1 bg-primary kategoriSil" style="margin-right:2px;margin-bottom:2px">@kategori.Ad</div>
+        }
+    </div>
+    <div class="form-group">
+        <label class="col-sm-12">Yayın Ekle</label>
+        <div class="col-sm-12">
+            <select id="yazar" class="form-control">
+                @foreach (var yazar in ViewBag.Yazarlar)
+                {
+                    if (Model.Yazar.Id == yazar.Id)
+                    {
+                        <option data-id="@yazar.Id" selected>@yazar.Ad</option>
+                    }
+                    else
+                    {
+                        <option data-id="@yazar.Id">@yazar.Ad</option>
+                    }
+                }
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-12">Dergi Adı</label>
+        <div class="col-md-12">
+            <input id="dergiAd" value="@Model.Ad" type="text" class="form-control" placeholder="Dergi adını giriniz.">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-12">Dergi Adeti</label>
+        <div class="col-md-12">
+            <input id="dergiAdet" value="@Model.Adet" type="text" class="form-control" placeholder="Dergi adetini giriniz.">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-12">Sıra No</label>
+        <div class="col-md-12">
+            <input id="siraNo" value="@Model.SiraNo" type="text" class="form-control" placeholder="Sırayı giriniz.">
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-12">
+            <input type="button" id="dergiGuncelle" data-id="@Model.Id" class="btn btn-block btn-info" value="Güncelle" />
+        </div>
+    </div>
+</form>
+
+
