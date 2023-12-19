@@ -1,0 +1,30 @@
+C:\Users\90538\OneDrive\Masaüstü\Mustafa Hoca Ödev\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.dll
+C:\Users\90538\OneDrive\Masaüstü\Mustafa Hoca Ödev\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.pdb
+C:\Users\90538\OneDrive\Masaüstü\Mustafa Hoca Ödev\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\obj\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.csproj.AssemblyReference.cache
+C:\Users\90538\OneDrive\Masaüstü\Mustafa Hoca Ödev\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\obj\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\90538\OneDrive\Masaüstü\Mustafa Hoca Ödev\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\obj\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.dll
+C:\Users\90538\OneDrive\Masaüstü\Mustafa Hoca Ödev\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\obj\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.pdb
+C:\Users\90538\OneDrive\Masaüstü\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.dll
+C:\Users\90538\OneDrive\Masaüstü\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.pdb
+C:\Users\90538\OneDrive\Masaüstü\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\obj\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.csproj.AssemblyReference.cache
+C:\Users\90538\OneDrive\Masaüstü\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\obj\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\90538\OneDrive\Masaüstü\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\obj\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.dll
+C:\Users\90538\OneDrive\Masaüstü\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\obj\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.pdb
+C:\Users\90538\OneDrive\Masaüstü\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.dll.config
+C:\Users\90538\OneDrive\Masaüstü\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\EntityFramework.dll
+C:\Users\90538\OneDrive\Masaüstü\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90538\OneDrive\Masaüstü\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\EntityFramework.xml
+C:\Users\90538\OneDrive\Masaüstü\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90538\OneDrive\Masaüstü\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\obj\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.csproj.CopyComplete
+C:\Users\Emre\Desktop\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.dll.config
+C:\Users\Emre\Desktop\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.dll
+C:\Users\Emre\Desktop\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.pdb
+C:\Users\Emre\Desktop\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\EntityFramework.dll
+C:\Users\Emre\Desktop\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emre\Desktop\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\EntityFramework.xml
+C:\Users\Emre\Desktop\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emre\Desktop\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\obj\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\obj\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\obj\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.csproj.CopyComplete
+C:\Users\Emre\Desktop\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\obj\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.dll
+C:\Users\Emre\Desktop\Dergi-Abone-Takip-ASP.NET\Dergi-Abone-Takip-ASP.NET.Data.Model\obj\Debug\Dergi-Abone-Takip-ASP.NET.Data.Model.pdb
