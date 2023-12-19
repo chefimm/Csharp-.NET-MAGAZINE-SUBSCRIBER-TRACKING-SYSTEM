@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Abonelik Süresi";
+}
+@using Dergi_Abone_Takip_ASP.NET.Data.Model
+@model List<AlinanDergi>
+
+<h2 style="display:inline-block">ABONELİK SÜRESİ</h2>
+<a href="@Url.Action("OdemeVer","AlinanDergi")" class="btn btn-success" style="float:right;">Abonelik Ödeme</a>
+<table id="example" class="display" style="width:100%">
+    <thead>
+        <tr>
+            <th>Dergi Adı</th>
+            <th>Abone Olan Üye</th>
+            <th>Abone Olduğu Tarih</th>
+            <th>Abonelik Bitiş Tarihi</th>
+            <th>Güncelle</th>
+            <th>Ödendi Olarak İşaretle</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var alinanDergi in Model)
+        {
+            <tr>
+                <td>@alinanDergi.Dergi.Ad</td>
+                <td>@alinanDergi.Uye.Ad</td>
+                <td>@alinanDergi.AboneBaslangic.ToString("dddd, dd MMMM yyyy")</td>
+                <td>@alinanDergi.AboneBitis.ToString("dddd, dd MMMM yyyy")</td>
+                <td><a href="@Url.Action("OdemeDergiGuncelle","AlinanDergi", new { alinanDergiId= alinanDergi.Id})" class="btn btn-success">Güncelle</a></td>
+                <td><button class="odendiOlarakIsaretle btn btn-danger" value="@alinanDergi.Id">Teslim Edildiği İse İşaretle</button></td>
+            </tr>
+        }
+    </tbody>
+</table>

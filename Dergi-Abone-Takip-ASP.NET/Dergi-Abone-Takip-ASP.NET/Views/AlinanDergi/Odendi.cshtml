@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Ödeme Yapanlar";
+    DateTime odemeTarih;
+}
+@using Dergi_Abone_Takip_ASP.NET.Data.Model
+@model List<AlinanDergi>
+
+<h2>ÖDEME YAPMIŞLAR VE TESLİM EDİLENLER</h2>
+<table id="example" class="display" style="width:100%">
+    <thead>
+        <tr>
+            <th>Dergi Adı</th>
+            <th>Abone Olan Üye</th>
+            <th>Abone Olduğu Tarih</th>
+            <th>Abonelik Bitiş Tarihi</th>
+            <th>Ödeme Tarihi</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var alinanDergi in Model)
+        {
+            odemeTarih = Convert.ToDateTime(@alinanDergi.OdemeTarihi);
+            <tr>
+                <td>@alinanDergi.Dergi.Ad</td>
+                <td>@alinanDergi.Uye.Ad</td>
+                <td>@alinanDergi.AboneBaslangic.ToString("dddd, dd MMMM yyyy")</td>
+                <td>@alinanDergi.AboneBitis.ToString("dddd, dd MMMM yyyy")</td>
+                <td> @odemeTarih.ToString("dddd, dd MMMM yyyy")</td> 
+            </tr>
+        }
+    </tbody>
+</table>
