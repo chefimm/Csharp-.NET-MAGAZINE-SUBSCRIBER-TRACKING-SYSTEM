@@ -1,0 +1,1015 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\90538\OneDrive\Masaüstü\publish</_PublishTargetUrl>
+    <History>True|2023-07-06T10:37:27.0571202Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Common.Logging.Core.dll">
+      <publishTime>11/14/2015 15:35:30</publishTime>
+    </File>
+    <File Include="bin/Common.Logging.Core.pdb">
+      <publishTime>11/14/2015 15:35:30</publishTime>
+    </File>
+    <File Include="bin/Common.Logging.dll">
+      <publishTime>11/14/2015 15:35:30</publishTime>
+    </File>
+    <File Include="bin/Common.Logging.pdb">
+      <publishTime>11/14/2015 15:35:30</publishTime>
+    </File>
+    <File Include="bin/Dergi-Abone-Takip-ASP.NET.Data.dll">
+      <publishTime>07/04/2023 22:11:17</publishTime>
+    </File>
+    <File Include="bin/Dergi-Abone-Takip-ASP.NET.Data.dll.config">
+      <publishTime>06/12/2023 14:20:13</publishTime>
+    </File>
+    <File Include="bin/Dergi-Abone-Takip-ASP.NET.Data.Model.dll">
+      <publishTime>06/12/2023 22:45:46</publishTime>
+    </File>
+    <File Include="bin/Dergi-Abone-Takip-ASP.NET.Data.Model.dll.config">
+      <publishTime>06/12/2023 14:22:54</publishTime>
+    </File>
+    <File Include="bin/Dergi-Abone-Takip-ASP.NET.Data.Model.pdb">
+      <publishTime>06/12/2023 22:45:46</publishTime>
+    </File>
+    <File Include="bin/Dergi-Abone-Takip-ASP.NET.Data.pdb">
+      <publishTime>07/04/2023 22:11:17</publishTime>
+    </File>
+    <File Include="bin/Dergi-Abone-Takip-ASP.NET.dll">
+      <publishTime>07/06/2023 13:37:02</publishTime>
+    </File>
+    <File Include="bin/Dergi-Abone-Takip-ASP.NET.pdb">
+      <publishTime>07/06/2023 13:37:02</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>04/16/2020 23:38:42</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>04/16/2020 23:38:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/05/2018 16:10:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>06/07/2018 03:26:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>05/27/2022 23:39:10</publishTime>
+    </File>
+    <File Include="bin/Quartz.dll">
+      <publishTime>05/27/2018 14:18:32</publishTime>
+    </File>
+    <File Include="bin/Quartz.pdb">
+      <publishTime>05/27/2018 14:18:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/08/2018 12:18:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/08/2018 12:18:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/08/2018 12:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/05/2016 18:55:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>11/05/2016 18:55:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 03:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>11/05/2016 18:55:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>11/05/2016 18:55:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>11/05/2016 18:56:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/05/2016 18:56:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>11/05/2016 18:56:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>11/05/2016 18:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 03:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/05/2016 18:57:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/05/2016 18:57:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/05/2016 18:57:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/05/2016 18:57:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>11/05/2016 18:57:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>11/05/2016 18:57:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>11/05/2016 18:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>11/05/2016 18:57:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/08/2018 12:18:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/08/2018 12:09:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/08/2018 12:18:16</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 13:05:18</publishTime>
+    </File>
+    <File Include="bin/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>04/15/2020 01:49:20</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>02/19/2020 13:05:18</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 16:29:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>02/19/2020 13:05:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>05/27/2022 23:41:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>05/27/2022 23:42:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>05/27/2022 23:42:06</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>05/27/2022 23:42:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>05/27/2022 23:42:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>05/27/2022 23:42:50</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Helpers.resources.dll">
+      <publishTime>05/28/2022 02:42:14</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Mvc.resources.dll">
+      <publishTime>05/28/2022 02:42:36</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Razor.resources.dll">
+      <publishTime>05/28/2022 02:43:06</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Webpages.Deployment.resources.dll">
+      <publishTime>05/28/2022 02:42:40</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Webpages.Razor.resources.dll">
+      <publishTime>05/28/2022 02:42:46</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Webpages.resources.dll">
+      <publishTime>05/28/2022 02:43:06</publishTime>
+    </File>
+    <File Include="Content/Css/animate.css">
+      <publishTime>06/07/2023 20:37:15</publishTime>
+    </File>
+    <File Include="Content/Css/blue.css">
+      <publishTime>06/07/2023 20:38:07</publishTime>
+    </File>
+    <File Include="Content/Css/bootstrap.min.css">
+      <publishTime>06/07/2023 20:31:40</publishTime>
+    </File>
+    <File Include="Content/Css/buttons.dataTables.min.css">
+      <publishTime>06/08/2023 12:06:48</publishTime>
+    </File>
+    <File Include="Content/Css/css-chart.css">
+      <publishTime>06/07/2023 20:36:03</publishTime>
+    </File>
+    <File Include="Content/Css/jquery-jvectormap-2.0.2.css">
+      <publishTime>06/07/2023 20:35:04</publishTime>
+    </File>
+    <File Include="Content/Css/jquery.dataTables.min.css">
+      <publishTime>06/08/2023 11:48:57</publishTime>
+    </File>
+    <File Include="Content/Css/sidebar-nav.min.css">
+      <publishTime>06/07/2023 20:33:47</publishTime>
+    </File>
+    <File Include="Content/Css/style.css">
+      <publishTime>06/07/2023 20:37:47</publishTime>
+    </File>
+    <File Include="Content/Css/sweetalert2.min.css">
+      <publishTime>06/09/2023 16:23:39</publishTime>
+    </File>
+    <File Include="Content/images/sort_asc.png">
+      <publishTime>06/08/2023 12:08:00</publishTime>
+    </File>
+    <File Include="Content/images/sort_asc_disabled.png">
+      <publishTime>06/08/2023 12:08:00</publishTime>
+    </File>
+    <File Include="Content/images/sort_both.png">
+      <publishTime>06/08/2023 12:08:00</publishTime>
+    </File>
+    <File Include="Content/images/sort_desc.png">
+      <publishTime>06/08/2023 12:08:00</publishTime>
+    </File>
+    <File Include="Content/images/sort_desc_disabled.png">
+      <publishTime>06/08/2023 12:08:00</publishTime>
+    </File>
+    <File Include="Content/less/colors/blue-dark.less">
+      <publishTime>06/07/2023 21:05:31</publishTime>
+    </File>
+    <File Include="Content/less/colors/blue.less">
+      <publishTime>06/07/2023 21:05:31</publishTime>
+    </File>
+    <File Include="Content/less/colors/default-dark.less">
+      <publishTime>06/07/2023 21:05:31</publishTime>
+    </File>
+    <File Include="Content/less/colors/default.less">
+      <publishTime>06/07/2023 21:05:31</publishTime>
+    </File>
+    <File Include="Content/less/colors/gray-dark.less">
+      <publishTime>06/07/2023 21:05:31</publishTime>
+    </File>
+    <File Include="Content/less/colors/gray.less">
+      <publishTime>06/07/2023 21:05:31</publishTime>
+    </File>
+    <File Include="Content/less/colors/green-dark.less">
+      <publishTime>06/07/2023 21:05:31</publishTime>
+    </File>
+    <File Include="Content/less/colors/green.less">
+      <publishTime>06/07/2023 21:05:31</publishTime>
+    </File>
+    <File Include="Content/less/colors/megna-dark.less">
+      <publishTime>06/07/2023 21:05:31</publishTime>
+    </File>
+    <File Include="Content/less/colors/megna.less">
+      <publishTime>06/07/2023 21:05:31</publishTime>
+    </File>
+    <File Include="Content/less/colors/purple-dark.less">
+      <publishTime>06/07/2023 21:05:31</publishTime>
+    </File>
+    <File Include="Content/less/colors/purple.less">
+      <publishTime>06/07/2023 21:05:31</publishTime>
+    </File>
+    <File Include="Content/less/eliteadmin.less">
+      <publishTime>06/07/2023 21:05:31</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/.bower.json">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/.gitignore">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/.npmignore">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/bower.json">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/css/font-awesome.css">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/css/font-awesome.min.css">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/fonts/fontawesome-webfont-old.ttf">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/fonts/fontawesome-webfont.eot">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/fonts/fontawesome-webfont.svg">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/fonts/fontawesome-webfont.ttf">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/fonts/fontawesome-webfont.woff">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/fonts/fontawesome-webfont.woff2">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/fonts/FontAwesome.otf">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/HELP-US-OUT.txt">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/animated.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/bordered-pulled.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/core.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/extras.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/fixed-width.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/font-awesome.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/icons.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/larger.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/list.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/mixins.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/path.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/rotated-flipped.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/spinning.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/stacked.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/less/variables.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/font-awesome.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/_animated.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/_bordered-pulled.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/_core.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/_extras.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/_fixed-width.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/_icons.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/_larger.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/_list.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/_mixins.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/_path.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/_rotated-flipped.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/_spinning.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/_stacked.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/font-awesome/scss/_variables.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-arrows-10.eot">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-arrows-10.svg">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-arrows-10.ttf">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-arrows-10.woff">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-basic-10.eot">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-basic-10.svg">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-basic-10.ttf">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-basic-10.woff">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-basic-elaboration-10.eot">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-basic-elaboration-10.svg">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-basic-elaboration-10.ttf">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-basic-elaboration-10.woff">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-ecommerce-10.eot">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-ecommerce-10.svg">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-ecommerce-10.ttf">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-ecommerce-10.woff">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-music-10.eot">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-music-10.svg">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-music-10.ttf">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-music-10.woff">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-software-10.eot">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-software-10.svg">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-software-10.ttf">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-software-10.woff">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-weather-10.eot">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-weather-10.svg">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-weather-10.ttf">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/fonts/linea-weather-10.woff">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/linea.css">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/linea-icons/linea.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/simple-line-icons/css/simple-line-icons.css">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/simple-line-icons/fonts/Simple-Line-Icons.eot">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/simple-line-icons/fonts/Simple-Line-Icons.svg">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/simple-line-icons/fonts/Simple-Line-Icons.ttf">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/simple-line-icons/fonts/Simple-Line-Icons.woff">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/simple-line-icons/fonts/Simple-Line-Icons.woff2">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/simple-line-icons/less/simple-line-icons.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/simple-line-icons/scss/simple-line-icons.scss">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/themify-icons/fonts/themify.eot">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/themify-icons/fonts/themify.svg">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/themify-icons/fonts/themify.ttf">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/themify-icons/fonts/themify.woff">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/themify-icons/ie7/ie7.css">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/themify-icons/ie7/ie7.js">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/themify-icons/themify-icons.css">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/themify-icons/themify-icons.less">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/css/weather-icons-core.css">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/css/weather-icons-variables.css">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/css/weather-icons-wind.css">
+      <publishTime>06/07/2023 21:05:32</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/css/weather-icons-wind.min.css">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/css/weather-icons.css">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/css/weather-icons.min.css">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/font/weathericons-regular-webfont.eot">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/font/weathericons-regular-webfont.svg">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/font/weathericons-regular-webfont.ttf">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/font/weathericons-regular-webfont.woff">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/font/weathericons-regular-webfont.woff2">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/css/variables-beaufort.css">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/css/variables-day.css">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/css/variables-direction.css">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/css/variables-misc.css">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/css/variables-moon.css">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/css/variables-neutral.css">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/css/variables-night.css">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/css/variables-time.css">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/css/variables-wind-names.css">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-classes/classes-beaufort.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-classes/classes-day.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-classes/classes-direction.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-classes/classes-misc.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-classes/classes-moon-aliases.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-classes/classes-moon.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-classes/classes-neutral.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-classes/classes-night.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-classes/classes-time.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-classes/classes-wind-aliases.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-classes/classes-wind-degrees.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-classes/classes-wind.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-variables/variables-beaufort.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-variables/variables-day.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-variables/variables-direction.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-variables/variables-misc.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-variables/variables-moon.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-variables/variables-neutral.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-variables/variables-night.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-variables/variables-time.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/icon-variables/variables-wind-names.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/mappings/wi-forecast-io.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/mappings/wi-owm.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/mappings/wi-wmo4680.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/mappings/wi-yahoo.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/weather-icons-classes.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/weather-icons-core.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/weather-icons-variables.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/weather-icons-wind.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/weather-icons-wind.min.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/weather-icons.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/less/weather-icons.min.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-classes/classes-beaufort.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-classes/classes-day.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-classes/classes-direction.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-classes/classes-misc.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-classes/classes-moon-aliases.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-classes/classes-moon.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-classes/classes-neutral.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-classes/classes-night.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-classes/classes-time.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-classes/classes-wind-aliases.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-classes/classes-wind-degrees.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-classes/classes-wind.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-variables/variables-beaufort.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-variables/variables-day.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-variables/variables-direction.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-variables/variables-misc.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-variables/variables-moon.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-variables/variables-neutral.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-variables/variables-night.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-variables/variables-time.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/icon-variables/variables-wind-names.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/mappings/wi-forecast-io.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/mappings/wi-owm.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/mappings/wi-wmo4680.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/mappings/wi-yahoo.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/weather-icons-classes.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/weather-icons-core.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/weather-icons-variables.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/weather-icons-wind.min.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/weather-icons-wind.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/weather-icons.min.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/icons/weather-icons/sass/weather-icons.scss">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/pages.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/responsive.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/sidebar-nav.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/spinners.css">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/style.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/variables.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Content/less/widgets.less">
+      <publishTime>06/07/2023 21:05:33</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/12/2023 15:01:38</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>06/11/2023 15:01:58</publishTime>
+    </File>
+    <File Include="Scripts/buttons.html5.min.js">
+      <publishTime>06/08/2023 11:57:19</publishTime>
+    </File>
+    <File Include="Scripts/buttons.print.min.js">
+      <publishTime>06/08/2023 12:02:47</publishTime>
+    </File>
+    <File Include="Scripts/custom.js">
+      <publishTime>06/07/2023 20:50:20</publishTime>
+    </File>
+    <File Include="Scripts/dashboard2.js">
+      <publishTime>06/07/2023 20:50:33</publishTime>
+    </File>
+    <File Include="Scripts/dataTables.buttons.min.js">
+      <publishTime>06/08/2023 11:58:16</publishTime>
+    </File>
+    <File Include="Scripts/easy-pie-chart.init.js">
+      <publishTime>06/07/2023 20:50:02</publishTime>
+    </File>
+    <File Include="Scripts/jquery.dataTables.min.js">
+      <publishTime>06/08/2023 11:48:19</publishTime>
+    </File>
+    <File Include="Scripts/jquery.easypiechart.min.js">
+      <publishTime>06/07/2023 20:48:44</publishTime>
+    </File>
+    <File Include="Scripts/jquery.flot.js">
+      <publishTime>06/07/2023 20:46:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery.min.js">
+      <publishTime>06/07/2023 20:40:17</publishTime>
+    </File>
+    <File Include="Scripts/jquery.slimscroll.js">
+      <publishTime>06/07/2023 20:45:27</publishTime>
+    </File>
+    <File Include="Scripts/jquery.sparkline.min.js">
+      <publishTime>06/07/2023 20:47:41</publishTime>
+    </File>
+    <File Include="Scripts/jQuery.style.switcher.js">
+      <publishTime>06/07/2023 20:50:59</publishTime>
+    </File>
+    <File Include="Scripts/jszip.min.js">
+      <publishTime>06/08/2023 12:00:42</publishTime>
+    </File>
+    <File Include="Scripts/Main.js">
+      <publishTime>06/12/2023 17:42:28</publishTime>
+    </File>
+    <File Include="Scripts/pdfmake.min.js">
+      <publishTime>06/08/2023 12:01:06</publishTime>
+    </File>
+    <File Include="Scripts/sidebar-nav.min.js">
+      <publishTime>06/07/2023 20:44:33</publishTime>
+    </File>
+    <File Include="Scripts/sweetalert2.min.js">
+      <publishTime>06/09/2023 16:23:12</publishTime>
+    </File>
+    <File Include="Scripts/vfs_fonts.js">
+      <publishTime>06/08/2023 12:01:27</publishTime>
+    </File>
+    <File Include="Scripts/waves.js">
+      <publishTime>06/07/2023 20:45:59</publishTime>
+    </File>
+    <File Include="Views/AlinanDergi/AboneSuresi.cshtml">
+      <publishTime>06/11/2023 11:04:36</publishTime>
+    </File>
+    <File Include="Views/AlinanDergi/OdemeDergiGuncelle.cshtml">
+      <publishTime>06/11/2023 03:01:07</publishTime>
+    </File>
+    <File Include="Views/AlinanDergi/OdemeVer.cshtml">
+      <publishTime>06/11/2023 01:48:32</publishTime>
+    </File>
+    <File Include="Views/AlinanDergi/Odendi.cshtml">
+      <publishTime>06/11/2023 11:02:56</publishTime>
+    </File>
+    <File Include="Views/Dergi/Ekle.cshtml">
+      <publishTime>06/11/2023 12:14:06</publishTime>
+    </File>
+    <File Include="Views/Dergi/Guncelle.cshtml">
+      <publishTime>06/11/2023 12:13:55</publishTime>
+    </File>
+    <File Include="Views/Dergi/Index.cshtml">
+      <publishTime>06/12/2023 15:24:36</publishTime>
+    </File>
+    <File Include="Views/Kategori/Index.cshtml">
+      <publishTime>06/12/2023 17:36:44</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>06/12/2023 18:50:39</publishTime>
+    </File>
+    <File Include="Views/Uye/Ekle.cshtml">
+      <publishTime>06/12/2023 17:47:00</publishTime>
+    </File>
+    <File Include="Views/Uye/Guncelle.cshtml">
+      <publishTime>06/12/2023 18:11:45</publishTime>
+    </File>
+    <File Include="Views/Uye/Index.cshtml">
+      <publishTime>06/11/2023 12:12:03</publishTime>
+    </File>
+    <File Include="Views/Uyelik/Ekle.cshtml">
+      <publishTime>06/11/2023 15:26:31</publishTime>
+    </File>
+    <File Include="Views/Uyelik/Index.cshtml">
+      <publishTime>06/11/2023 15:33:41</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>06/12/2023 15:22:57</publishTime>
+    </File>
+    <File Include="Views/Yazar/Index.cshtml">
+      <publishTime>06/12/2023 18:13:22</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>06/11/2023 15:01:56</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/06/2023 13:37:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
